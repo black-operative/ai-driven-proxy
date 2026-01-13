@@ -1,0 +1,9 @@
+.vscode
+ai/.venv
+proxy/.cache
+proxy/build
+proxy/proxy_metrics.csv
+ai/data/dataset.csv
+ai/model/model.pkl
+ai/data/Friday-WorkingHours-Afternoon-DDos.pcap_ISCX.csv
+ai/data/Tuesday-WorkingHours.pcap_ISCX.csv
