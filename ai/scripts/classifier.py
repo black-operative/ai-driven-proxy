@@ -4,7 +4,7 @@ import pickle
 
 PORT = 5000
 HOST = "127.0.0.1"
-MODEL = pickle.load(open("model.pkl", "rb"))
+MODEL = pickle.load(open("<MODEL_CHOICE>.pkl", "rb"))
 SOCKET_PATH = (HOST, PORT)
 
 sock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
